@@ -1,0 +1,13 @@
+{
+  "name": "gallery",
+  "version": "1.0.0",
+  "description": "This application is made to allow users to share their medias.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "dependencies": {
+    
+  }
+}
